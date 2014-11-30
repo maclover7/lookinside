@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Nick Quaranto"]
   s.email       = 'me@jonathanmoss.me'
   s.files       = ["lib/hola.rb"]
-  s.homepage    =
-    'http://rubygems.org/gems/hola'
+  s.homepage    = 'https://github.com/maclover7/lookinside'
   s.license       = 'MIT'
 end
