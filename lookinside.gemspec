@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "A simple gem to tell you which controller and action is rendering the page."
   s.authors     = ["Nick Quaranto"]
   s.email       = 'me@jonathanmoss.me'
-  s.files       = ["lib/hola.rb"]
+  s.files       = ["lib/lookinside.rb"]
   s.homepage    = 'https://github.com/maclover7/lookinside'
   s.license       = 'MIT'
 end
